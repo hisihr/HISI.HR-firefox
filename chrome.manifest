@@ -1,0 +1,2 @@
+content     hisi    chrome/content/
+overlay chrome://browser/content/browser.xul chrome://hisi/chrome/content/hisi.xul
